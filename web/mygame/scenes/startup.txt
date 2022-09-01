@@ -1,0 +1,401 @@
+*comment Copyright 2010 by Dan Fabulich.
+*comment 
+*comment Dan Fabulich licenses this file to you under the
+*comment ChoiceScript License, Version 1.0 (the "License"); you may
+*comment not use this file except in compliance with the License. 
+*comment You may obtain a copy of the License at
+*comment 
+*comment  http://www.choiceofgames.com/LICENSE-1.0.txt
+*comment 
+*comment See the License for the specific language governing
+*comment permissions and limitations under the License.
+*comment 
+*comment Unless required by applicable law or agreed to in writing,
+*comment software distributed under the License is distributed on an
+*comment "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+*comment either express or implied.
+
+*title That Night
+*author Sam White
+*scene_list
+  startup
+  ending
+  
+
+*create leadership 50
+*create strength 50
+
+The sound of your ragged breath echoed around you as you plunged your sword straight through another body. It had become an instinct by this point, your hands moving on their own accord, sparing and slashing at anything that came close, each strikes brutal and precise. 
+
+You watched the sharp blade cut through the man's metal armour, the sound of flesh meeting the sword being covered by the howl of pain escaping the man's lip, loud and choked at the same time, as he dropped to the floor like a rag doll, motionless.  
+
+Gazing at his lifeless body, you wondered about his identity. 
+
+Had he been from a noble house? Out to set an example of how good of a future lord he would be to his father? Or was he some poor farmer's son who joined Nanjing’s royal army for a chance at a better life? These were questions you knew you would never get the answers to. A body never had any identity after they pummeled to their death. It was just a body. Plain and simple. 
+
+Blood oozed out of the soldier's chest when you pulled out your sword, the gush of red painting the floor crimson, some of it splattering onto your steel boots.  It was only then that you felt your hands shaking. But whether it was from adrenaline or fatigue, you had no intention of pondering. 
+
+Instead, you let your focus drift towards your surroundings. 
+
+Lifting your head, expecting yet another group of men with blades and spears to come barreling towards your way, you were surprised when the only thing that greeted you was the now empty throne room. If you could call a room full of dead bodies empty, that was.
+
+*page_break
+
+[i]Did I truly kill them all?[/i] 
+
+Looking at the bodies littered on the marble floor, this was the first thought that came to your head. There were so many of them; littered across the enormous hall like garbage. The amount was so large that the white marble floor was now painted with red, the trail of blood starting all the way from the grand entryway, ending at the foot of stairs to the throne. 
+
+The throne itself looked stripped down of all its past glory; the golden banners hung from its side either ripped to shreds or splattered with blood. Incest burners and broken shards of glass all scattered around the floor, paintings vandalised and pulled apart, making the once glorious room that spoke of power and history look like a room of horror and dishonour. 
+
+[i]Did I really cause this?[/i]
+
+You asked yourself again, even though you knew the answer to this for the longest time. 
+
+It was a five-hundred-year-old dynasty; built by ancestors who rebelled and won the great Taijian war, raising one of the greatest Kingdoms ever to rule half of China. Five hundred years of history, sacrifice and unbidden glory. It was a kingdom that had everything, a capital that was supposed to be written down in history as a shining beacon of power and prosperity, all burnt to ashes, the smell of fire still thick in the air.
+
+And it was all because of [i]you.[/i]
+
+The sound of echoing footsteps from behind snapped you out of your reverie, forcing you to stand still and tall, despite fatigue trying to take over you with every breath. You could feel every inch of your skin prickle as the sound drifted closer with every step. They were light but sure, moving in a grace that only a few people could muster without making them seem arrogant. You didn't need to turn around to know whom those steps belonged to; they were a sound you could recognize in your sleep. 
+
+As the sound drifted closer and closer, you couldn’t help but voice out.
+
+*choice
+ #Are you happy now?
+   The footsteps behind you didn’t falter, even for a second. 
+   The sound of laughter, so cruel yet emotionless, filled your ears as he came closer. His velvet voice crooned in a way that made goosebumps rise on your skin. 
+   "What do you think, my lion?" 
+  
+   You refused to turn to face him.
+   *goto part2
+
+ #Quite beautiful, isn't it?
+    You let the words fall out of your mouth easily, refusing to turn to face him. He will come to you himself, that much you were sure of. 
+    Hearing your words, you could almost feel the bitter smirk that no doubt graced his lips, his footsteps growing closer still with every word.
+    
+    "Well, I, for one, would've liked a bit more [i]red,[/i]" he spoke as though he was conversing about the weather, 
+    and it took a tremendous amount of self-control not to let out a bitter huff at his response. That didn’t mean you had to keep your mouth shut. 
+    
+    "You always did have an unhealthy penchant for that colour." you shot back, making him chuckle. 
+    *goto part2
+  
+ #You are late.
+    Your tone fell flat and emotionless, and you did nothing to fix it. 
+
+    "Am I? I thought I was perfectly on time." 
+
+    He spoke in his smooth velvet voice, but you could still hear the amusement behind every word. 
+
+    *goto part2
+ #Keep Silent
+    With every single step he took, the anger inside you boiled and raged, thrashing to reach the surface. You forced yourself to keep silent, not wanting to give him the pleasure of getting a rise out of you just yet. 
+    But your silence seemed to cause him great amusement, and you heard him tsk behind you before he spoke. 
+    
+    "What? Tired already, [i]darling?[/i]" The all too familiar endearment that slipped his lips made you feel both sick and satisfied at the same time. 
+    
+    [i]Good.[/i] You thought. He was annoyed.
+    *goto part2
+
+*label part2
+
+When his figure passed you, you couldn’t help but let your gaze drift towards him. And the mere sight of him caused your heart to stumble and burn. 
+
+In the black robes made out of the finest silk, he looked like he had walked out of a painting, elegant and otherworldly with his steps. The dark leather belt hugged his slim waist tightly; the slit of robe made the lines of his long leather-covered leg visible as he walked. His face, gazing ahead, was still a vision to behold with his jade black hair and fair skin. 
+
+He looked as if he hadn’t aged a single day. 
+He looked just as beautiful he was four years ago. 
+
+And he doesn’t spare you a glance as he moved forward, taking the stairs to the throne two at a time, his face void of any emotion. 
+
+You watched along silently as his figure came to a stop in front of the family throne, fully expecting him to sit down on what was rightfully his now. But proving you wrong like always, you watched him move to its side, placing a hand on its head instead. 
+
+“So, this was all it took.”  his flat statement rang like a question in your ear. You wished you could see his face to decipher what he was thinking. But his back was still turned towards you, shielding his face from your eyes. 
+
+*choice
+
+ #How does it feel like?
+    You found yourself asking despite everything. And his reply, when it came, was short.
+    
+    “Meh. I’ve had better,” he spoke in a flat tone as if causing a massacre was something he regularly did. Even if it were something he did, you wouldn’t be the one to know anymore. That tie had been caught off between you a long time ago. 
+    
+    *goto part3
+
+ #Seems like it.
+    You found yourself shrugging. You couldn’t care less about that piece of junk anymore. What done was done; no point crying over the things you knew wouldn’t last.
+    
+    The disinterest in your tone finally made him turn towards you, and it would be a lie if seeing him face to face didn’t feel like a blow to your gut. Beautiful brown eyes stared down at you with a blankness you never knew they could hold. They looked cold as ice, dead like the lifeless bodies that surrounded you both. And even in that coldness that surrounded him, he was still the most beautiful thing you had ever seen—a tragedy of your own creation. A tragedy you paid the price for. 
+    
+    “What?” he spoke with a raise of his eyebrow, “Is this not your obsession anymore?” he asked, hand placed languidly on the throne. 
+
+    *goto part3
+  
+ #Yes, this was.
+    You reply fell flat and emotionless. 
+    
+    The voidness in your town finally made him turn towards you, and even in your disinterest, you found your eyes travelling towards him. A sight to behold indeed. Your brain supplied easily, even if that beautiful face made nothing but hurt rise inside you. But that was the last thing you’d let him see. 
+    
+    Heaving out a dramatic sigh, he looked at you like you had disappointed him greatly. 
+    
+    “Now that’s just boring,” he tsked while looking at you, a devious smirk colouring his face as he spoke. 
+
+    *goto part3
+ #Glare at him
+    Anger boiled inside you like a seething volcano, and you glared at his back. 
+    
+    The silence from your end seemed to make him turn towards you finally. And even in the rage of anger, a part of you couldn’t stop you from looking at his face. 
+    
+    A beautiful nightmare. You wanted to spat on the ground at acknowledgement. No words were enough to describe the raw emotions inside you.  
+    
+    Seeing the rage painted on your face, a smirk coloured his lips. 
+    
+    “Huh,” he tilted his head, “not going to talk then? Have you forgotten how to speak, darling? Is the trauma too much to handle?” he asked in fake worry. 
+    
+    Clutching the sword hard in your hand, you refrain from strangling him. 
+
+    *goto part3
+
+*label part3
+
+Without waiting for your reaction, he started to move.
+
+“Ahh! What a day it has been!” he drawled, “I must say, it was indeed surprising to get the result so soon,” he said, glancing at you, and you noticed the pleased smile covering his lips. 
+
+“One of the greatest family in all of China!” his hand skimmed over a ruined royal flag, “Adored by its people! Adored by its neighboring Kingdoms! Adored by the Emperor [i]himself,[/i] is now all [i]dead,[/i]” he hollered, “with not a single soul left behind, except for their former [i]little King,[/i]” he spoke while getting closer towards you, hands pressed behind his back.
+
+“How does it feel, huh?”  he said, walking in circles around you, “how does it feel to know the reason behind all these dead lives, all these spilt bloods, was [i]you[/i]? How does it feel to know that everything that has happened until now was [i]all. Your. Fault?[/i]” he said, stopping right in front of you. 
+
+Looking into his eyes, you could clearly see the triumph shine through, but it still struck you hard how empty it looked—a void with no end, a pit of death. 
+
+[i]At least I saved those who mattered.[/i] 
+
+You found the thought entering you again as you kept looking at him, and a sense of calm overtook you once more. 
+
+That was right. You indeed saved those who mattered. What happens to you now has no value to you. You did your part. 
+
+A smile, sad and filled with remorse slowly bloomed on your face as you finally gave in, and really looked at him for the first time. 
+
+It had been four years. Four long years of war, and everything in between. And  yet, he still looked so young.  
+
+The lines of age never seemed to touch him, even in the past; always making him seem younger, naiver and colored with innocence, even though you both were of the same age.  Right now, at the age of twenty-four, he still didn’t look a single day older than nineteen. But you would be foolish to hope that the innocence of his heart was as intact as his face. 
+
+You realized a long, long time ago that this man, who now stood in front of you with dead eyes and an eerie smile that didn’t suit his face at all, had always been anything but innocent. 
+
+A dead man with a heart made of ice. That’s what he was, even if you had your own hand at making him what he was today.
+
+It was a bittersweet thought now, to think this person was once someone you would've defied the entire world for.
+
+Resignation clouding your thoughts, you felt your knee hit the ground even before you realized you were kneeling down.in front of him, eyes casted down.
+
+It was done. You could finally rest now. 
+
+*page_break
+Unsheathing the sword from your side, you took one last look at it. 
+
+Decorated with the family sigil of The Golden Lion, the silver hilt glistened under the ray of light coming from the windows.  
+And if you look closely at the blade itself, you could still make out the faint delicate carvings of peony streams under the drying blood. 
+
+Your father used to call it [i]Zhèngyì[/i]; the bringer of justice and righteousness. A sword that only a king who brought forth peace could carry. A sword of great honor and prestige.
+
+A sword that was never meant to be yours to carry. A sword you had to wield nevertheless.  
+
+And now, it was a sword you were ready to give up. 
+
+Bowing your head down, you placed the blade on both of your hands and held it up, like an offering. 
+
+"You won." They were just two words, but you knew the meaning behind them were greater than oceans between the two of you. 
+
+Silence stretched on in the throne room as the seconds ticked by, fatigue seemed to finally catch up to you. But before you could close your eyes and give in, the sudden huff of laugher cut through your senses like knives.  And started, you looked up, only to find the eerie smile painted on his face once again. 
+
+He looked at you as if he were angry. 
+
+"Ohh, but I've hardly begun, [i]darling.[/i]" 
+
+The sound of echoing footsteps made you snap your head around. 
+
+Twelve rebel soldiers (are they rebels bro? For now, let's call them that) walked through the iron door to the throne room, clad in war armor.  And before the initial surprise could pass you, you find yourself surrounded by them from all sides. 
+
+Feeling alarmed, you stood up without realizing, and they grabbed you from each side.
+
+The sword in your hands made a clunking sound as it fell to the ground.
+
+*choice
+ #What else is left for you to do?
+    You asked while staring at him.  There was no use fighting the restraints. So you didn’t bother trying. 
+    
+    Hearing your voice, a smirk greeted his face, "I'm just getting started with the fun! Don't you know me at all?” he spoke in glee, and you felt your blood run cold. 
+    
+    Because, for all the years you had known him, he had never been the person who gave out empty threats.
+
+
+    *goto part4
+
+ #Just be quick about it, will you?.
+    You spoke while taking in the new additions. You knew it would be fruitless to fight against them now. And you had no desire to do so either. 
+    
+    "Ohh?" the man in front of you spoke again, "but I thought you simply hated when things ended quickly." 
+    
+    Hearing the fake innocence in his voice, made you roll your eyes. 
+    
+    "Things change, [i]old man[/i]. What better example of it is there other than you?" 
+    You can see his fist clench in anger at your sudden declaration. He always did hate it when you called him that.
+
+
+    *goto part4
+  
+ #Just...kill me.
+    The flatness in your tone only seemed to egg him on, and you saw him giving you a serene smile in return. 
+    
+    "Ahh, I could," he agreed solemnly, nodding his head as his eyes skimmed over you. "But where's the fun in that?" he spoke with false glee.
+
+
+    *goto part4
+ #What more could you possibly want?!
+    Anger took over your senses once again and you tried your best to calm yourself down, eyes burning a hole on his face. 
+    But your words fell flat in front of his open grin, your anger only bringing him more joy.
+    "Easy there, [i]lion![/i]" he spoke with mock surrender, "no need to get so fiesty on poor little me!" pointing a finger towards himself. 
+    
+    You wanted nothing more but to spat on his face.
+    *goto part4
+
+*label part4
+Before you could say anything else, the sounds of more footsteps coming from behind him, took away your focus. And when you took in the scene before you, your blood ran cold.
+
+[i]No. No no no fuck NO![/i] 
+
+Your frantic eyes turned to look at him only to see a satisfied smirk covering his eyes, before your focus was back again on the people who entered. 
+
+Surrounded by a large group of guards, your own personal guard, ZhuoZheng(will change later), to whom you had placed your trust on carrying this one job through, was dragged in, beaten beyond recognition. Behind him was a woman with a frailed white dress, her blond long hair covered in dirt and blood, face bleeding from various injuries, and a child, no more than the age of seven, whose clothes were ripped and splattered with blood. They were dragged in with chains clung tightly around their necks, and you watched them take steps towards you, eyes dead.
+
+No. You found yourself starting to struggle, the hands that held you down crushing your arms tighter to prevent you from taking a step.
+
+A man with a higher authority marched right beside them, the gold on his armor signifying his importance. And with a final shout to halt, the soldiers and the captives came to a stop a few steps away from you.
+
+The gold armored soldier spoke with a bow, "Your highness —"
+
+"What took you so long!?" his voice cut through the man's words, cold and harsh, and the room fell deadly quiet. 
+
+"I —" you could see the man grow pale. "My lord, there was a slight comm—" 
+
+"Speak. [i]Loudly[/i], general!" he roared, still not turning to face the man behind him. 
+
+The general was now left in a stuttering mess. 
+
+"It was hard to track them down, my lord. They managed to escape through a hidden path with ten guards and —" his eyes flicked towards ZhouZheng, who kept his gaze to the ground. "The fight was gruesome! They managed to hold back and almost got across the west river, but the royal navy and I managed to capture them before they escaped for good." he said while lowering his head, and it was only then when you saw him turn to face the crowd. 
+
+Panic seemed to sweep through every inch of your bone while his gaze scrutinized every single one of the guards and the captives, eyes turning venomous when landing on the general himself. 
+
+*page_break
+Taking a step forward, he stood right in front of the man. 
+
+"The golden dragon of China," he spoke, "that's what the soldiers call you, was it General Wen?" he asked while looking at the general, who bowed his head even further at the sudden attention. 
+
+"That title should be stripped off of you, along with your flaky golden armor and burnt to the ground!" he growled. 
+
+Even from where you stood, you could still see the face of general turn crimson at the insult, struggling to stand still. 
+
+"Get them in line!" he ordered without a beat. 
+
+"Y–yes, my lord." the general scrummed into obedience before turning away, 
+
+The general made a quick work of lining up the captives, and soon you found yourself facing the people you risked your own life to save. Your eyes met with ZhouZheng, the guard to whom you trusted to keep these very people safe, and watched his face crumple and break, the apology of not being able to do his job seeming to cripple him more than the various cuts and blows across his bloody figure. 
+
+"Surprise, my darling." your attention was quickly recaptured by the man who now stood a couple of steps ahead of you, and seeing the grand smile on his face, panic overtook you. 
+
+*choice
+
+ #You already won! Why are you still playing this game?!
+    Your voice rose with unhidden desperation, and hearing your words he turned to you, face breaking into that eerie smirk.
+    
+    "Playing games is the only thing I'm good at. Wasn’t that what you told me once?" he asked. "And to live up to your grand expectations, I prefer to do the thing I can do best." the tone of mockery didn’t escape your ears. 
+
+    *goto part5
+ #You're taking the whole villain role a bit too seriously, don't you think?
+   You spoke sarcastically, trying to keep your emotions on check. But as before, your words seem to have no effect on the man.
+  
+   "Ahh but not everyone can be a grand hero like you, now can they, darling? We mere mortals must make do with the roles we get." he said, giving you an empty grin.
+   *goto part5
+
+ #This is low. Even for you.
+   You spat out the words in cold rage.
+   Hearing your tone, he gave out a shrug of nonchalance. "What's the point of staying righteous and dignified at a time like this? Besides, being dishonorable has it’s own perks. It keeps things more… unpredictable, don't you think?" he smirked.
+   *goto part5
+  
+ #Let. Them. Go!
+    Hearing the authority in your tone makes him look at you. 
+    
+    "Now, why on earth would I do that?" he said while raising his eyebrows, and the ground beneath your feet shakes as dread sinks in.
+
+    *goto part5
+
+*label part5
+"Now if you’ll kindly excuse me, I've some unfinished business I must attend to." he said before turning around with a flourish, and with long sure steps, starts striding towards the captives. 
+
+With each of his steps, the world around you slowly begins to crumble. 
+
+"This isn’t one of your funny little games anymore!" you shout, "Stop this." 
+
+He continues walking without a hitch. 
+
+You felt yourself shaking against the restrains around your arms, trying to break free. Trying to break free. 
+
+"Your highness!" you desperately pleaded, all sense calm escaping you. "Let them go!" you shout, but it leaves no effect. 
+
+"Let them go right now!! Stop this madness!" you bellowed as he stepped further away from you, the struggle on your side increasing with every heartbeat. You needed to stop him. You must stop him somehow. 
+
+"XIAO ZHAN!!" You shouted on top of your lungs. Your hands hurt from the struggle you put up, your feet trembled as you tried to run towards him. 
+
+You faintly heard the general below in his loud voice, reprimanding you for speaking the King's name so casually, but you paid no mind to him, your soul focused on the man who was walking away. 
+
+You can't let him get closer to them. You can't let him have them. The inside of your lungs seemed to be on fire as you screamed and cried with desperation. If only you could break free for one second, if only you could get close to him, if only….
+*page_break
+
+A flashback of a clear blue sky seemed to take away all the air from your lungs. 
+
+[i]"You're here!"[/i] you heard your own voice echoing in your ears, sounding young and happy
+
+[i]The open field in front of you stretched on for miles for the eyes to see. The sun shone brightly over your head, wind ruffling your hair as you ran towards the young figure who stood further down. He had his hand combing through the mane of a white horse, his eyes illuminating the brightness of the day like the clean Hai river, the smile on his lips ever present.[/i]
+
+Things were so simple back then. 
+
+Your lips trembled as you remembered what you used to call him, and in a rush, all the fight dropped from your body, making you motionless.
+
+When you finally spoke again, your voice sounded broken as the shards of glasses that covered the floor. 
+
+[i]"Zhan-ge."[/i] 
+
+It was just a whisper, but hearing the word tremble out of your lips caused the steps in front to halt, making you look up in surprise.
+
+Relief seemed to crush onto you like waves. 
+
+"Please, listen —"
+
+Hearing your voice, the man moved again. But what you needed to say was far from being over.
+
+"Zhan-ge, please," you begged, desperation making you lose all sense of thought, voice breaking down with every word. "Listen to me. That night —"
+
+His steps faltered once again. 
+
+You found yourself sobbing with hysteria. You needed to let him know. He needed to know. 
+
+"[i]That night[/i] I...I really wanted to —" 
+
+But the rest of your words never made it out of your mouth. 
+
+The sharp pain bloomed within your chest like magma rose from volcanoes, making you choke in surprise; and looking up, you saw the face of the general, pulling out a sharp edged knife right over your heart. 
+
+Blood oozed out in a gush as general Wen moved away from you, his face set on a hard line, saying something you cannot focus on, pain taking over your senses as reality sunk in. 
+
+You look down at the small little hole that now graced your body in shock, seeing it cover your armour in a new coat of crimson. The pain was too much to bear, and you found yourself glancing up at the little boy who now stood like a dead statue across the hall, looking at you like he saw a ghost. It was then when your vision started to blur. 
+
+[i]In the end, I really couldn’t save them.[/i]
+
+[i]I couldn't save those who mattered.[/i] Your inner voice whispered in defeat. And with it, you felt your body grow numb, dropping to the floor with a clang. 
+
+At this point your vision had gotten too blurry to see anything, and you felt the weakened beat of your heart thrumming on your throat, trying to go on, just for a little longer. 
+
+The pain had all but faded from you now, and with surprise you found yourself unable to move your fingers. 
+
+[i]So this is what death tastes like..[/i] You thought. 
+
+The last thing you felt before the darkness took over you completely was the touch of soft delicate fingers, creasing over your cheek in an all too familiar way; like a memory from the past, like a memory you spent your whole life trying to forget.
+
+In the grand throne room covered in blood and bodies, a single teardrop fell, unnoticed.
